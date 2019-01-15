@@ -21,6 +21,7 @@ my_var = tf.Variable(tf.zeros([1,20]))
 # Different kinds of variables
 row_dim = 2
 col_dim = 3 
+#this is a test
 
 # Zero initialized variable
 zero_var = tf.Variable(tf.zeros([row_dim, col_dim]))
